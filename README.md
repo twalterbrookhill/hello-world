@@ -6,10 +6,10 @@ You need to display the phrase, "Hello World" using HTML and CSS. You have acces
 
 
 Reqirements:
-1. You must use the <h1> tag to display "Hello World"
-2. You must style the <h1> tag using css.
+1. You must use the h1 tag to display "Hello World"
+2. You must style the h1 tag using css.
       a. Color the Text (any color you like)
-      b. Change the font size to 40px
+      b. Change the font size to 40 pixels.
 3. Using CSS sytle the background of the web page.
       a. Change the backgroun color (any color you like) I need to be able to see the "Hello World" text.
       
